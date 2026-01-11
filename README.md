@@ -23,5 +23,5 @@ Lastly, a virtual environment keeps things tidy, makes sure your main Python ins
 In some cases:
 
     conda install ipykernel
-    python -m ipykernel isntall --user --name-p310env
+    python -m ipykernel install --user --name-p310env
 
