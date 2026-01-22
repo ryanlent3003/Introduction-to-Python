@@ -1,5 +1,5 @@
 # Introduction-to-Python
-This tutorial covers basic NumPy and Pandas libraries to get Civil Engineers fundamental skills in Python.
+TThis tutorial covers basic NumPy, Pandas, and visualization libraries to support Civil Engineers and Hydrologists training with fundamental skills in Python.
 The .ipynb files in this tutorial have been modified from other, with the original authors referenced the respective readme.md files.
 
 # Getting Started: 
