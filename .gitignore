@@ -12,6 +12,8 @@ figures/*
 # hidden exercises
 Dev/*
 *Dev/*
+*Dev1.ipynb
+*Dev2.ipynb
 
 # Distribution / packaging
 .Python
